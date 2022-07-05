@@ -1,0 +1,7 @@
+﻿  domino.cpp
+D:\cpluplus\domino\domino\domino.cpp(249,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\cpluplus\domino\domino\domino.cpp(303,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\cpluplus\domino\domino\domino.cpp(320,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\cpluplus\domino\domino\domino.cpp(200): warning C4715: IsChainFit: значение возвращается не при всех путях выполнения
+D:\cpluplus\domino\domino\domino.cpp(113): warning C4715: IsFit: значение возвращается не при всех путях выполнения
+  domino.vcxproj -> D:\cpluplus\domino\Debug\domino.exe
